@@ -1,0 +1,2 @@
+[run]
+omit = canopy_charts/tests/*
